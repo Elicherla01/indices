@@ -1,3 +1,6 @@
+#Author: ravindra elicherla
+#This is a hobby project and do not expcet code to be robust
+
 import yfinance as yf
 import pandas as pd
 
