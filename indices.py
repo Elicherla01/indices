@@ -1,5 +1,5 @@
 #Author: ravindra elicherla
-#This is a hobby project and do not expcet code to be robust
+#This is a hobby project and do not expect code to be robust and not suitable for production use
 
 import yfinance as yf
 import pandas as pd
